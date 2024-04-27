@@ -41,7 +41,6 @@ class Array:
         #print(self._count)
         for i in range(self._count):
             print(self._data[i], end=' ')
-            print(type(self._data[i]), end=',')
         print()
 
 def test_array():
