@@ -49,13 +49,9 @@ def test_array():
     array.print_all()
 
     array.insert(0, 3)
-    array.print_all()
     array.insert(0, 4)
-    array.print_all()
     array.insert(1, 5)
-    array.print_all()
     array.insert(3, 9)
-    array.print_all()
     array.insert(3, 10)
     #array.insert(3, 11)
     array.print_all()
